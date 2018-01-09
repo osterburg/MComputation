@@ -3,8 +3,6 @@
 #include <maya/MGlobal.h>
 #include <maya/MComputation.h>
 
-// This is a macro to create a simple command
-// the compiler expands it to a bunch of code
 
 DeclareSimpleCommand( MComputationTest , "S Osterburg - Maya C++ course", "Maya 2017");
 
